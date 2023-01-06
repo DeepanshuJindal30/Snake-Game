@@ -1,4 +1,4 @@
-# Snake-Game
+# Snake-Game 🐍
 Snake is a classic video game where the player controls a snake that moves around the screen and picks up items while avoiding obstacles. In a Snake game written in C, the player uses the arrow keys to control the direction of the snake's movement. As the snake moves, it leaves a trail behind it, and the player must navigate the snake through the screen without running into the walls or its own tail. The snake grows in length each time it picks up an item, which can be a piece of fruit or some other item. The game ends when the snake crashes into an obstacle or its own tail. The goal of the game is to score as many points as possible by collecting items and surviving for as long as possible.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
